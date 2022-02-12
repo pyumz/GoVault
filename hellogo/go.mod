@@ -1,4 +1,4 @@
-module github.com/pyumz/GoVault/mystrings
+module github.com/pyumz/GoVault/hellogo
 
 go 1.17
 
